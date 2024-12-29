@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700");
+.cursor {
+  cursor: pointer;
+}
+.navexpand {
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -ms-transition: 1s;
+  -o-transition: 1s;
+  transition: 1s;
+  height: 50px;
+}
+.validation-error {
+  font-size: 0.8em;
+  font-style: italic;
+  color: #dc3545;
+}
+.dragging-item {
+  list-style: none;
+}
